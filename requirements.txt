@@ -1,0 +1,9 @@
+librosa==0.10.0
+matplotlib==3.7.1
+numpy==1.22.4
+s3prl==0.4.13
+scikit_learn==1.1.2
+torch==1.12.1
+torchaudio==0.12.1
+torchmetrics==1.2.1
+tqdm==4.64.1
